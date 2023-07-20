@@ -1,9 +1,16 @@
 [
-  {
-    "name": "Testing",
-    "address": "testing",
-    "cuisine": "Indian",
-    "website": "https://mytest.com",
-    "description": "its Awesome."
-  }
+    {
+        "name": "Testing",
+        "address": "testing",
+        "cuisine": "Indian",
+        "website": "https://mytest.com",
+        "description": "its Awesome."
+    },
+    {
+        "name": "Testing1",
+        "address": "Kuala Lumpur, Malaysia",
+        "cuisine": "Mexican",
+        "website": "https://mytest1.com",
+        "description": "yes"
+    }
 ]
